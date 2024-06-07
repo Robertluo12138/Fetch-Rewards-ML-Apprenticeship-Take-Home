@@ -12,7 +12,6 @@
    ```bash
    git clone <repository_url>
    cd <repository_directory>
-   pip install -r requirements.txt
    ```
 
 2. **Create a Conda Environment**:
